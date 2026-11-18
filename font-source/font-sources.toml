@@ -120,3 +120,15 @@ file = "LastResort-Regular.ttf"
 acquisition = "direct"
 source_location = "https://github.com/unicode-org/last-resort-font/releases/latest/download/LastResort-Regular.ttf"
 license = "https://raw.githubusercontent.com/unicode-org/last-resort-font/main/LICENSE"
+
+[[fonts]]
+file = "IDSSeal-Regular.woff2"
+acquisition = "direct"
+source_location = "https://github.com/mkpoli/ids-input/blob/93c712cb043932a1c1d37bd93c5c2796aee79cfe/fonts/IDSSeal-Regular.woff2"
+license = "https://github.com/mkpoli/ids-input/blob/93c712cb043932a1c1d37bd93c5c2796aee79cfe/fonts/LICENSE-IDSSeal.txt"
+
+[[fonts]]
+file = "IDSJurchen.woff2"
+acquisition = "direct"
+source_location = "https://github.com/mkpoli/ids-input/blob/93c712cb043932a1c1d37bd93c5c2796aee79cfe/fonts/IDSJurchen.woff2"
+license = "https://github.com/mkpoli/ids-input/blob/93c712cb043932a1c1d37bd93c5c2796aee79cfe/fonts/LICENSE-IDSJurchen.txt"
