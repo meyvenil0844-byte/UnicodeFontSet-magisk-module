@@ -75,6 +75,16 @@
         </font>
     </family>
     <family>
+        <font weight="400" style="normal" postScriptName="IDSSeal-Regular">
+            IDSSeal-Regular.woff2
+        </font>
+    </family>
+    <family>
+        <font weight="400" style="normal" postScriptName="IDSJurchen">
+            IDSJurchen.woff2
+        </font>
+    </family>
+    <family>
         <font weight="400" style="normal" postScriptName="LastResort-Regular">
             LastResort-Regular.ttf
         </font>
