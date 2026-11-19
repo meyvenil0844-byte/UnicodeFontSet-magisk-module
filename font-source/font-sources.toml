@@ -138,3 +138,9 @@ file = "LXGWSeal-Regular.ttf"
 acquisition = "direct"
 source_location = "https://github.com/lxgw/LxgwSeal/blob/main/TTF/LXGWSeal-Regular.ttf"
 license = "https://github.com/lxgw/LxgwSeal/blob/main/OFL.txt"
+
+[[fonts]]
+file = "unifont_upper-18.0.01.otf"
+acquisition = "direct"
+source_location = "https://github.com/cmckinney-59/the-baybayin-project/blob/main/src/assets/fonts/deseret/UnifontUpper/unifont_upper-18.0.01.otf"
+license = "https://github.com/drunken-octopus/drunken-octopus-marlin/blob/6d3954c760c18905b785801c9bd4eef274340d89/Marlin/src/lcd/tft/fontdata/Unifont/LICENSE-OFL-1.1#L4"
