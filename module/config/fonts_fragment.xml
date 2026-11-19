@@ -95,6 +95,12 @@
         </font>
     </family>
     <family>
+    <family>
+        <font weight="400" style="normal" postScriptName="LXGWSeal-Regular">
+            GUnicode-Regular.ttf
+        </font>
+    </family>
+    <family>
         <font weight="400" style="normal" postScriptName="LastResort-Regular">
             LastResort-Regular.ttf
         </font>
