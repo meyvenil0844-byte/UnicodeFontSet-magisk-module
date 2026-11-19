@@ -85,7 +85,7 @@
         </font>
     </family>
     <family>
-        <font weight="400" style="normal" postScriptName="LXGWSeal-Regular">
+        <font weight="400" style="normal" postScriptName="UnifontUpper">
             unifont_upper-18.0.01.otf
         </font>
     </family>
@@ -95,8 +95,7 @@
         </font>
     </family>
     <family>
-    <family>
-        <font weight="400" style="normal" postScriptName="LXGWSeal-Regular">
+        <font weight="400" style="normal" postScriptName="GUnicode-Regular">
             GUnicode-Regular.ttf
         </font>
     </family>
