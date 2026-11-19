@@ -86,6 +86,11 @@
     </family>
     <family>
         <font weight="400" style="normal" postScriptName="LXGWSeal-Regular">
+            unifont_upper-18.0.01.otf
+        </font>
+    </family>
+    <family>
+        <font weight="400" style="normal" postScriptName="LXGWSeal-Regular">
             LXGWSeal-Regular.ttf
         </font>
     </family>
